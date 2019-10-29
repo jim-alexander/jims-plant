@@ -35,7 +35,8 @@ const Chart = () => {
         data={data}
         options={{
           maintainAspectRatio: false,
-          scales: { yAxes: [{ id: 0 }, { id: 1 }, { id: 2 }] }
+          scales: { yAxes: [{ id: 0 }, { id: 1 }, { id: 2 }] },
+          legend: { display: false }
         }}
       />
     </div>
