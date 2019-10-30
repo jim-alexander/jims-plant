@@ -11,7 +11,7 @@ import Header from './components/layout/Header'
 import Navigator from './components/layout/Navigator'
 
 //style
-import './app.css'
+import './App.css'
 import './components/layout/index.css'
 import './components/Stats/index.css'
 
